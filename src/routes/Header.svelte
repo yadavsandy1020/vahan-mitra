@@ -24,15 +24,6 @@
 				<li class="nav-item">
 					<a class="nav-link text-white" href="/services">Services</a>
 				</li>
-				<li class="nav-item">
-					<a class="nav-link text-white" href="/pricing">Pricing</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link text-white" href="/about">About</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link text-white" href="/contact">Contact</a>
-				</li>
 			</ul>
 		</div>
 	</div>
@@ -40,6 +31,9 @@
 
 <style>
 	.nav-item {
-		font-size: 1.5rem;
+		font-size: 1.2rem;
+	}
+	img {
+		width: 10em;
 	}
 </style>

@@ -1,5 +1,5 @@
 <div>
-	<div class="container text-bg-dark test-start">
+	<div class="container text-bg-light test-start">
 		<p class="mb-0">
 			Welcome to our online vehicle services! We offer a wide range of automotive-related services
 		</p>
